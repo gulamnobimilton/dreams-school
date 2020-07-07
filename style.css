@@ -1,0 +1,48 @@
+.body{
+    font-family: fantasy;
+}
+
+
+.container img{
+    width: 350px;
+}
+
+.sign-in{
+    background-color: #21B573;
+    color: white;
+    border: lightgreen;
+    border-radius: 33px;
+    width: 104px;
+    height: 43px;
+
+}
+.container{
+    margin-top: 30px;
+}
+
+.any-schedule{
+    color: #21B573;;
+}
+
+.first-banner{
+    background-color: #F0FFF0;
+}
+
+.nav-banner{
+    background-color: #F0FFF0;
+}
+
+.get-started{
+width: 153px;
+height: 43px;
+left: 205px;
+top: 470px;
+background: #21B573;
+border-radius: 33px;
+}
+
+
+
+
+
+
